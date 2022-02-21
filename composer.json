@@ -1,0 +1,20 @@
+{
+  "name": "msgframework/event",
+  "type": "library",
+  "require": {
+    "php": ">=7.4",
+    "symfony/event-dispatcher": "^6.0"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Msgframework\\Lib\\Event\\": ""
+    }
+  },
+  "authors": [
+    {
+      "name": "MSGroupFM",
+      "email": "admin@msgru.com"
+    }
+  ]
+}
